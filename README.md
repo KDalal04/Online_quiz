@@ -4,3 +4,5 @@ using Xampp
 .
 .
 site link: http://localhost/quiz
+
+#php #mysql #html
