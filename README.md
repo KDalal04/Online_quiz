@@ -3,6 +3,9 @@ An online quiz system allows users to create, participate, and manage quizzes th
 using Xampp
 .
 .
-site link: http://localhost/quiz
+after setup:--
+create a sql file as name exam,
+then start Xampp server and
+click on site link: http://localhost/quiz
 
 #php #mysql #html
